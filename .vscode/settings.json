@@ -1,0 +1,12 @@
+{
+    "editor.unicodeHighlight.allowedLocales": {
+        "vscode": true
+    },
+    "editor.unicodeHighlight.includeStrings": "inUntrustedWorkspace",
+    "terminal.integrated.automationProfile.linux": {
+        "path": "/bin/bash",
+        "args": [
+            "-c",
+        ]
+    }
+}
